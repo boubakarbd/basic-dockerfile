@@ -2,7 +2,8 @@
 
 ## Project URL
 
-https://github.com/boubakarbd/basic-dockerfile
+https://roadmap.sh/projects/basic-dockerfile
+
 
 Ce projet consiste à créer une image Docker simple qui affiche "Hello, Captain!" dans la console avant de se terminer.
 ## Instructions
