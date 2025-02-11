@@ -11,10 +11,6 @@ Ce projet consiste à créer une image Docker simple qui affiche "Hello, Captain
 3. **Commande** : Le Dockerfile doit contenir une seule instruction pour afficher "Hello, Captain!" dans la console avant de se terminer.
 
 ## Structure du projet
-
-Voici la structure du projet :
-
-## Structure du projet
 .
 ├── Dockerfile
 └── README.md
