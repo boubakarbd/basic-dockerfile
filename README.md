@@ -1,9 +1,10 @@
 # Docker Hello Captain Project
 
-L'URL du projet GitHub est : [https://github.com/boubakarbd/basic-dockerfile](https://github.com/boubakarbd/basic-dockerfile).
+## Project URL
+
+https://github.com/boubakarbd/basic-dockerfile
 
 Ce projet consiste à créer une image Docker simple qui affiche "Hello, Captain!" dans la console avant de se terminer.
-
 ## Instructions
 
 1. **Dockerfile** : Le fichier Dockerfile doit être nommé `Dockerfile` et doit être placé à la racine du projet.
